@@ -1,5 +1,5 @@
 ---
-short_name: jb
+short_name: jbutcher
 name: Josh Butcher
 position: Lawful Good
 ---
